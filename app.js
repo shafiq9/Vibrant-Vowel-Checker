@@ -13,7 +13,7 @@ function checkVowels(){
         }
     }
 
-    var result = document.getElementById9("result");
+    var result = document.getElementById("result");
     result.textContent = "Total Vowels: " + vowelCount;
 }
 
